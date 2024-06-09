@@ -6,6 +6,10 @@ I made a file .bat that is capable of doing dumps (process to make a copy) on my
  - I made it using Xampp
  - Batch Script is made for Windows OS
 
+# WHAT IS BATCH SCRIPT:
+
+Batch script is a type of script that automates command sequences by storing them in a plain text file. These files have the special extensions .bat or .cmd and are recognized and executed by the command-line interpreter, typically cmd.exe on Windows systems. Batch scripts can read user inputs, include control structures like for, if, and while for better automation, and support advanced features like functions and arrays. They are commonly used for tasks such as setting up servers, automating housekeeping activities, deploying applications, and installing programs on multiple machines
+
 # WHAT IS XAMPP:
 ![images (2) (12)](https://github.com/Arthur-byte-code/Batcscript-Backup-MySQL/assets/152222113/dd23aaf3-210e-436f-99d6-cd21c1dc8d19)
 
