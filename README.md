@@ -4,6 +4,7 @@ I made a file .bat that is capable of doing dumps (process to make a copy) on my
 
 # IMPORTANT TO KNOW:
  - I made it using Xampp
+ - Batch Script is made for Windows OS
 
 # WHAT IS XAMPP:
 ![images (2) (12)](https://github.com/Arthur-byte-code/Batcscript-Backup-MySQL/assets/152222113/dd23aaf3-210e-436f-99d6-cd21c1dc8d19)
