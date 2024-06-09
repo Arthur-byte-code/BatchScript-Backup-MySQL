@@ -6,5 +6,6 @@ I made a file .bat that is capable of doing dumps (process to make a copy) on my
  - I made it using Xampp
 
 # WHAT IS XAMPP:
+![images (2) (12)](https://github.com/Arthur-byte-code/Batcscript-Backup-MySQL/assets/152222113/dd23aaf3-210e-436f-99d6-cd21c1dc8d19)
 
 XAMPP is an open-source web development environment that allows programmers to build dynamic websites and applications without incurring an upfront license cost. It includes the Apache web server, MySQL database, and PHP programming language, as well as additional tools and utilities. XAMPP is designed for local development and testing, providing a preconfigured environment for building and testing web servers, databases, and applications. It is widely used for web development, prototyping, and education, and is available for free download on various operating systems.
