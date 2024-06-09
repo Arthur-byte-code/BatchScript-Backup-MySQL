@@ -5,3 +5,6 @@ I made a file .bat that is capable of doing dumps (process to make a copy) on my
 # IMPORTANT TO KNOW:
  - I made it using Xampp
 
+# WHAT IS XAMPP:
+
+XAMPP is an open-source web development environment that allows programmers to build dynamic websites and applications without incurring an upfront license cost. It includes the Apache web server, MySQL database, and PHP programming language, as well as additional tools and utilities. XAMPP is designed for local development and testing, providing a preconfigured environment for building and testing web servers, databases, and applications. It is widely used for web development, prototyping, and education, and is available for free download on various operating systems.
